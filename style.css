@@ -1,0 +1,160 @@
+p{
+	font-size: 20px;	
+text-align: center;
+}
+
+body
+{font-family: sans-serif;
+background-color: #A9A9A9;
+padding: 20px 10px;
+max-width: 1000px;
+margin: auto;}
+
+h1{text-align: center;
+	background-color: #00FFFF;
+	border-radius: 20px;}
+
+h5{
+	text-align: center;
+}
+
+h2{
+	background-color: #0000FF;
+	border-radius: 20px;
+	padding: 10px 10px;
+}
+
+.intro{
+	font-weight: bold;
+	font-size: 26px;
+	color: red;	}
+
+.repeat{
+	font-weight: bold;
+	font-size: 36px;
+	text-align: center;
+	color: blue;
+}
+
+h5{
+	font-weight: bold;
+	font-size: 36px;
+}
+
+.html{
+	font-size: 40px;
+	text-align: center;
+	color: blue;
+
+}
+
+.intro{
+	text-align: center;
+	background: navy;
+}
+
+.stage1work1{ 
+	text-align: center;
+	font-size: 40px;
+	color: maroon;	
+
+}
+
+.script{
+	background: #00FFFF;
+}
+
+.htmlinfo{
+	background: #00FFFF;
+}
+
+img{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	
+}
+
+.css{
+	font-size: 40px;
+	text-align: center;
+	color: blue;
+}
+
+.cssinfo{
+	background: #ff1493;
+}
+
+.dom{
+	font-size: 40px;
+	text-align: center;
+	color: blue;
+}
+
+.dominfo{
+	background: #adff2f;
+}
+
+.worksession2{
+	text-align: center;
+	font-size: 40px;
+	color: maroon;
+}
+
+.description_repeat{
+	text-align: center;
+
+}
+
+.deeperinfo{
+	text-align: center;
+	font-size: 40px;
+	font-family: bold;
+}
+
+.lastscript{
+	text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
